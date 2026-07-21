@@ -1,5 +1,4 @@
-strContent = Youtube Channel : DN Turbo
-\nApp Mod Skin : DN Turbo
+strContent = Youtube Channel : DN Turbo\nApp Mod Skin : DN Turbo
 hasCancelBtn = true
 onConfirm = https://www.youtube.com/@DNTurboModSkin
 onCancel = https://t.me/+lrJg6cp8TpkwM2Jl
