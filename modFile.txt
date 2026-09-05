@@ -1,4 +1,4 @@
-strContent = <size=19>File mod được tải từ app DN Turbo</size>
+strContent = <size=19>File mod được tải từ app DN Turbo\n\n Bấm [x] góc trên bên phải để tắt thông báo</size>
 hasCancelBtn = true
 onConfirm = https://www.youtube.com/@DNTurboModSkin
 onCancel = https://play.google.com/store/apps/details?id=com.modaov.turbogamebooster
